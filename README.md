@@ -1,2 +1,3 @@
 # Tailwind-CSS
-this is the first project for tailwind mainly focus on button,  outine ,ring and styling
+
+This is the first Tailwind CSS project, mainly focused on button styling, outlines, and ring effects.
